@@ -1,0 +1,10 @@
+WordPress ログイン情報
+https://eic-kobe.co.jp/wp/wp-admin/
+ID：eic-kobe.co.jp
+パスワード：pEY2QjGRDPMw
+
+
+FTP
+sv16412.xserver.jp
+k2design@eic-kobe.co.jp
+pEY2QjGRDPMw

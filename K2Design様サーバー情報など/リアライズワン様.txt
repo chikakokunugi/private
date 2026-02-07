@@ -1,0 +1,19 @@
+◎ロリポップ
+ログインアカウント：k2design.daa.jp
+パスワード：k2-design
+
+
+◎ムームードメイン
+ドメイン：realize1-archit.jp
+ムームーID info@k2design.daa.jp
+パスワード：qfj!ymg3PWG-yce0ete
+
+
+◎WordPress
+ID：realize1_admin
+PASS：qfj!ymg3PWG-yce0ete
+
+◎FTP
+ftp.lolipop.jp
+daa.jp-k2design
+k2-design

@@ -1,0 +1,14 @@
+KAGOYA管理画面
+https://cp.kagoya.net/
+kir687254
+Plusone6480
+
+wordpress管理画面
+http://www.dopo.jp/cms/wp-admin/
+ID:dopo_admin
+パスワード：SxUI0RSDINoIdhP7Cb
+
+FTP
+サーバー：kir687254.kir.jp
+ユーザー名：kir687254
+パスワード：Plusone6480
