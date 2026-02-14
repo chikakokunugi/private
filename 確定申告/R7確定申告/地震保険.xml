@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="http://xml.e-tax.nta.go.jp/xsl/1.0/CMTEG810-001.xsl"?>
+<TEG810 xmlns="http://xml.e-tax.nta.go.jp/XSD/kyotsu" xmlns:gen="http://xml.e-tax.nta.go.jp/XSD/general" xmlns:kyo="http://xml.e-tax.nta.go.jp/XSD/kyotsu" VR="1.0" id="TEG81060100010087952025C385881356000002025121001411823CAAXSXX3X0011146" page="1" sakuseiDay="2025-12-10" sakuseiNM="三井住友海上火災保険株式会社" softNM="Inspire">
+  <WDA00000>三井住友海上火災保険株式会社</WDA00000>
+  <WDC00000>
+    <gen:yyyy>2025</gen:yyyy>
+    <gen:mm>11</gen:mm>
+    <gen:dd>07</gen:dd>
+  </WDC00000>
+  <WDD00000>桾　知香子</WDD00000>
+  <WDE00000>
+    <WDE00010>
+      <gen:yyyy>2025</gen:yyyy>
+    </WDE00010>
+    <WDE00020>
+      <kubun_CD>1</kubun_CD>
+      <kubun_NM>地震保険料</kubun_NM>
+    </WDE00020>
+    <WDE00030>
+      <WDE00040>C385881356</WDE00040>
+    </WDE00030>
+    <WDE00070>
+      <kubun_CD>3</kubun_CD>
+      <kubun_NM>建物及び家財</kubun_NM>
+    </WDE00070>
+    <WDE00080>
+      <WDE00090>
+        <gen:yyyy>2025</gen:yyyy>
+        <gen:mm>11</gen:mm>
+        <gen:dd>08</gen:dd>
+      </WDE00090>
+      <WDE00100>005</WDE00100>
+    </WDE00080>
+    <WDE00120>
+      <WDE00130>
+        <gen:yyyy>2025</gen:yyyy>
+        <gen:mm>11</gen:mm>
+        <gen:dd>08</gen:dd>
+      </WDE00130>
+      <WDE00140>005</WDE00140>
+    </WDE00120>
+    <WDE00160>
+      <WDE00180>000000000002164</WDE00180>
+    </WDE00160>
+    <WDE00190>
+      <WDE00210>000000000000000</WDE00210>
+    </WDE00190>
+    <WDE00215>上記保険料は、所得税法第七十七条第一項に規定する地震保険料に該当するものです。</WDE00215>
+    <WDE00220>・控除対象保険料欄にはご契約時点のご契約内容に基づき、本年１月１日から１２月３１日までのお支払い（予
+　定）保険料を表示しております。証明日は、証券作成日時点の日付を表示しています。
+・一時払のご契約につきましては、控除対象保険料欄に、控除対象となる保険料を保険期間で割った金額を表示
+　しています。ただし、ご契約内容の変更をされた契約については、算出方法が異なる場合があります。
+・ご契約内容の変更手続きをされた場合は、控除対象となる保険料が変更となることがあります。
+・１年未満の保険期間は切下げて表示しています。
+　例）地震保険期間５か月の場合⇒「０年間」、地震保険期間２年６か月の場合⇒「２年間」
+・一部の項目については内容が表示されておりませんが、控除証明書としては問題ありません。
+
+</WDE00220>
+  </WDE00000>
+<Signature Id="_TEG81060100010087952025C385881356000002025121001411823CAAXSXX3X0011146" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI="#TEG81060100010087952025C385881356000002025121001411823CAAXSXX3X0011146"><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>bUWawiiq12Qx8+nW6lw6kNPKgko=</DigestValue></Reference></SignedInfo><SignatureValue>J60yD6ZqpKe3hYGDJzklg8+nF3D6DGnK3L8+yfpu57qHVLp83hFyM+leTL66RgI7pFnH6XS3W/ETpXhH0QHHaKuH07R03ujuMXKHVP65rUxXoTAYB1pAWaycQEpTwhhggRP5b5aUJx4RHkbAUBbKwRBvSxKGLY4oFXnPR9hWeZe6TrsVusp9JU/6AFoYwGYJgJL1E9hPG9S2iv9l2A4U1dfDVtAY/1G7GNfByiMLINKDxr5XppNrAiTW32mTiLpz/66nDRq3tGwygiLDssZ0Eaj3BJ/JtVlfXXta2MBWIjr67TIOqDHVgx6A2BJuQw4CxnKs3+/1Au7y7CG3C1WPDA==</SignatureValue><KeyInfo><X509Data><X509Certificate>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</X509Certificate></X509Data></KeyInfo></Signature></TEG810>
