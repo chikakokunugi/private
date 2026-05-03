@@ -1,8 +1,45 @@
+# 画像
 *.jpeg
 *.jpg
 *.png
 *.webp
 *.gif
+*.svg
+*.tiff
+*.tif
+*.bmp
+*.ico
+
+# AIデータ・デザインデータ
 *.ai
 *.psd
 *.eps
+*.indd
+*.xd
+*.sketch
+*.fig
+
+# 圧縮ファイル
+*.zip
+*.tar
+*.tar.gz
+*.tgz
+*.rar
+*.7z
+*.gz
+
+# 動画・音声
+*.mp4
+*.mov
+*.avi
+*.mkv
+*.mp3
+*.wav
+*.aac
+
+# macOS
+.DS_Store
+*.textClipping
+
+# 一時ファイル
+~$*
